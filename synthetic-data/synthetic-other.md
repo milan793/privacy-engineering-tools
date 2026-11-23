@@ -23,3 +23,4 @@ Here are some examples, although this is by far not an exhaustive list:
 - [Mostly AI](https://mostly.ai/) lets you create 100K rows of synthetic tabular data per day for free.
 - The company Synthetized has a [Scientific Data Kit](https://docs.synthesized.io/sdk/latest/): a Python package with a free 30-day trial.
 - [MDClone](https://www.mdclone.com/research) is a US-based company that generates health-care data. They provide a free demo on request.
+- [BlueGen.ai](https://bluegen.ai/) is a Dutch company that generates synthetic tabular, time-series, longitudinal and relational data, including an evaluation report on resemblance, utility and privacy. A demo is available on request.
